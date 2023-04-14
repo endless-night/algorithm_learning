@@ -1,0 +1,3 @@
+/ignore/*.md   # 忽略所有ignore文件夹下的md文件
+*.txt   # 忽略所有.txt文件
+*.md
